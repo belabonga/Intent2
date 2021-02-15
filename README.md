@@ -1,6 +1,6 @@
 # Intent2
 
-Nama  : Shania Asti Mafaza
+Nama  : Shan
 
 Kelas  : XII RPL 3
 
